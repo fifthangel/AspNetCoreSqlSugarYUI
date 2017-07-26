@@ -1,0 +1,3 @@
+E:\CsmRes\HAdmmin\HAdmin.Data\bin\Debug\netcoreapp1.0\HAdmin.Data.deps.json
+E:\CsmRes\HAdmmin\HAdmin.Data\obj\Debug\netcoreapp1.0\HAdmin.Data.csprojResolveAssemblyReference.cache
+E:\CsmRes\HAdmmin\HAdmin.Data\obj\Debug\netcoreapp1.0\HAdmin.Data.AssemblyInfo.cs

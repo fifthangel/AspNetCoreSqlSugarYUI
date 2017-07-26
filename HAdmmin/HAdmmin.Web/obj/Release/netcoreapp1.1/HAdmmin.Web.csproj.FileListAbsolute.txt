@@ -1,0 +1,9 @@
+E:\CsmRes\HAdmmin\HAdmmin.Web\bin\Release\netcoreapp1.1\HAdmmin.Web.deps.json
+E:\CsmRes\HAdmmin\HAdmmin.Web\bin\Release\netcoreapp1.1\HAdmmin.Web.runtimeconfig.json
+E:\CsmRes\HAdmmin\HAdmmin.Web\bin\Release\netcoreapp1.1\HAdmmin.Web.runtimeconfig.dev.json
+E:\CsmRes\HAdmmin\HAdmmin.Web\bin\Release\netcoreapp1.1\HAdmmin.Web.dll
+E:\CsmRes\HAdmmin\HAdmmin.Web\bin\Release\netcoreapp1.1\HAdmmin.Web.pdb
+E:\CsmRes\HAdmmin\HAdmmin.Web\obj\Release\netcoreapp1.1\HAdmmin.Web.csprojResolveAssemblyReference.cache
+E:\CsmRes\HAdmmin\HAdmmin.Web\obj\Release\netcoreapp1.1\HAdmmin.Web.AssemblyInfo.cs
+E:\CsmRes\HAdmmin\HAdmmin.Web\obj\Release\netcoreapp1.1\HAdmmin.Web.dll
+E:\CsmRes\HAdmmin\HAdmmin.Web\obj\Release\netcoreapp1.1\HAdmmin.Web.pdb

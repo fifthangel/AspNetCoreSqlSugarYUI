@@ -1,0 +1,7 @@
+E:\CsmRes\HAdmmin\HAdmin.Common\bin\Debug\netcoreapp1.1\HAdmin.Common.deps.json
+E:\CsmRes\HAdmmin\HAdmin.Common\bin\Debug\netcoreapp1.1\HAdmin.Common.dll
+E:\CsmRes\HAdmmin\HAdmin.Common\bin\Debug\netcoreapp1.1\HAdmin.Common.pdb
+E:\CsmRes\HAdmmin\HAdmin.Common\obj\Debug\netcoreapp1.1\HAdmin.Common.AssemblyInfo.cs
+E:\CsmRes\HAdmmin\HAdmin.Common\obj\Debug\netcoreapp1.1\HAdmin.Common.dll
+E:\CsmRes\HAdmmin\HAdmin.Common\obj\Debug\netcoreapp1.1\HAdmin.Common.pdb
+E:\CsmRes\HAdmmin\HAdmin.Common\obj\Debug\netcoreapp1.1\HAdmin.Common.csprojResolveAssemblyReference.cache

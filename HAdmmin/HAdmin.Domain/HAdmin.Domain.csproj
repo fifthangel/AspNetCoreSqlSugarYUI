@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HAdmin.Common\HAdmin.Common.csproj" />
+    <ProjectReference Include="..\HAdmin.Data\HAdmin.Data.csproj" />
+    <ProjectReference Include="..\HAdmin.Entity\HAdmin.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
