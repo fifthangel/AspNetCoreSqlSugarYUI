@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "f522dbf2dc71ab97bb14b256cb255dc7a060d070"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "hadmin.common/1.0.0": {
+        "dependencies": {
+          "Sakura.AspNetCore.PagedList": "2.0.2"
+        },
+        "runtime": {
+          "HAdmin.Common.dll": {}
+        }
+      },
+      "sakura.aspnetcore.pagedlist/2.0.2": {
+        "dependencies": {
+          "Sakura.AspNetCore.PagedList.Abstractions": "2.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Sakura.AspNetCore.PagedList.dll": {}
+        }
+      },
+      "sakura.aspnetcore.pagedlist.abstractions/2.0.1": {
+        "runtime": {
+          "lib/netstandard1.0/Sakura.AspNetCore.PagedList.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hadmin.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sakura.aspnetcore.pagedlist/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-anCFSp+RjoFN2oKA/4NuwIrD4YXpVE6EYo/Jtp+M3NYZaeqzJelAbvPnzgnmqx9codtsxTGy4tM6z5wVC+F4iQ==",
+      "path": "sakura.aspnetcore.pagedlist/2.0.2",
+      "hashPath": "sakura.aspnetcore.pagedlist.2.0.2.nupkg.sha512"
+    },
+    "sakura.aspnetcore.pagedlist.abstractions/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V0WukB335lQfqEtShHo3O50benGsbiSBv5e/Y9pmz7xH9E470j31moiMPCdEONgGtyFLYBrSG9l2v/WMTgI9+A==",
+      "path": "sakura.aspnetcore.pagedlist.abstractions/2.0.1",
+      "hashPath": "sakura.aspnetcore.pagedlist.abstractions.2.0.1.nupkg.sha512"
+    }
+  }
+}
